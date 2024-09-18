@@ -1,0 +1,99 @@
+ mkdir omegle-but-better
+
+Asus@Akhil MINGW64 /c/Coding/Projects
+$ ls
+Chess/  omegle-but-better/  Qr_Code_Generator/
+
+Asus@Akhil MINGW64 /c/Coding/Projects
+$ cd omegle-but-better/
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better
+$ ls
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better
+$ mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better
+$ npm  create vite@latest
+√ Project name: ... frontend
+√ Select a framework: » React
+√ Select a variant: » TypeScript + SWC
+
+Scaffolding project in C:\Coding\Projects\omegle-but-better\frontend...
+
+Done. Now run:
+
+  cd frontend
+  npm install
+  npm run dev
+
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better
+$ mkdir backend
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better
+$ cd backend/
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better/backend
+$ npm init -y
+Wrote to C:\Coding\Projects\omegle-but-better\backend\package.json:
+
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better/backend
+$ npm i -D
+
+up to date, audited 1 package in 182ms
+
+found 0 vulnerabilities
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better/backend
+$ npx tsc --init
+
+Created a new tsconfig.json with:                                                             
+                                                                                           TS 
+  target: es2016
+  module: commonjs
+  strict: true
+ui
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better/backend
+$ npm i
+
+up to date, audited 1 package in 163ms
+
+found 0 vulnerabilities
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better/backend
+$ ls
+package.json  package-lock.json  tsconfig.json
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better/backend
+$ mkdir src
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better/backend
+$ cd src/
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better/backend/src
+$ vi index.ts
+
+
+
+
+
+
+Asus@Akhil MINGW64 /c/Coding/Projects/omegle-but-better/backend/src
+$
